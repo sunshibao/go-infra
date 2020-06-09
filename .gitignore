@@ -1,0 +1,14 @@
+*.o
+*.a
+*.so
+
+*.exe
+*.test
+*.prof
+
+.idea/
+vendor/
+dist/
+
+
+
